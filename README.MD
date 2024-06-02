@@ -35,7 +35,10 @@ To run this project locally, follow these steps:
 
 ## API Documentation
 
-For detailed documentation on the available APIs and their usage, refer to the API documentation provided in the `docs` directory of this repository.
+For detailed documentation on the available APIs and their usage, refer to the link [here](https://e-commerceapi-2cg6.onrender.com/)! .
 
 
 ---
+
+
+
